@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite_1" duration-ms="17480" started-at="2014-08-11T08:38:40Z" finished-at="2014-08-11T08:38:57Z">
+    <groups>
+    </groups>
+    <test name="Sample Report" duration-ms="17480" started-at="2014-08-11T08:38:40Z" finished-at="2014-08-11T08:38:57Z">
+      <class name="TestClass1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestClass1@1d9c7028]" name="setUp" is-config="true" duration-ms="9656" started-at="2014-08-11T14:08:40Z" finished-at="2014-08-11T14:08:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testFindElements()[pri:0, instance:TestClass1@1d9c7028]" name="testFindElements" duration-ms="7742" started-at="2014-08-11T14:08:49Z" finished-at="2014-08-11T14:08:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFindElements -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestClass1@1d9c7028]" name="tearDown" is-config="true" duration-ms="70" started-at="2014-08-11T14:08:57Z" finished-at="2014-08-11T14:08:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestClass1 -->
+    </test> <!-- Sample Report -->
+  </suite> <!-- Suite_1 -->
+</testng-results>
